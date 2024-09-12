@@ -20,5 +20,6 @@ Para ver el proyecto en funcionamiento, simplemente clona este repositorio y abr
 git clone https://github.com/tuusuario/URL-SHORTENER.git
 cd URL-SHORTENER
 
-![image](https://github.com/user-attachments/assets/8c7fc409-9d5c-4a97-ab27-5ae02165715f)
+![Acortador de URL](https://github.com/user-attachments/assets/a9e7a80c-d78d-4501-8b97-b4ee62e377e5)
+
 
